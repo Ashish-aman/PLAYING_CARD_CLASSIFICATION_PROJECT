@@ -2,4 +2,4 @@ numpy
 pillow
 streamlit
 torch==2.1.2
-torchvision
+torchvision==0.16
